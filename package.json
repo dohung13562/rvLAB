@@ -1,0 +1,19 @@
+{
+  "name": "rvlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dohung13562/rvLAB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dohung13562/rvLAB/issues"
+  },
+  "homepage": "https://github.com/dohung13562/rvLAB#readme"
+}
